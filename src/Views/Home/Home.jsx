@@ -1,6 +1,6 @@
 import flowers from "../../data/flowers.json";
 import FlowerCard from "../../Components/FlowerCard";
-// import "./Home.css";
+import "./Home.css";
 
 function Home() {
   return (
