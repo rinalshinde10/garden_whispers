@@ -1,0 +1,26 @@
+[
+  { "id": 1, 
+  "name": "Rose",
+   "price": 50,
+    "color": "Red", 
+    "image": "https://img.freepik.com/premium-photo/single-red-rose-with-water-droplets_550296-996.jpg" },
+
+  { "id": 2, 
+  "name": "Tulip",
+   "price": 40, 
+   "color": "Yellow",
+    "image": "https://images.pexels.com/photos/10579644/pexels-photo-10579644.jpeg" },
+
+  { "id": 3,
+   "name": "Lily", 
+   "price": 60,
+    "color": "White",
+     "image": "https://cdn4.volusion.store/uyqbk-sezkn/v/vspfiles/photos/FLWBUL-RAI-WHITE-2.jpg?v-cache=1767862337" },
+
+
+  { "id": 4, 
+  "name": "Sunflower", 
+  "price": 35,
+   "color": "Yellow", 
+   "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0aL0V-q_zNwo9wNnJAvrVZHZCeuIUA4tiYA&s" }
+]
